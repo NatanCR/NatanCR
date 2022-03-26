@@ -2,16 +2,11 @@
 
 - 🔭 Hoje trabalho com desenvolvimento mobile
 - 🌱 Estudo Java e Swift
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 Contate-me no email: natanrodrigues0044@gmail.com
-- ⚡ Fun fact: ...
 
 <div align="center">
   <a href="https://github.com/NatanCR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatanCR&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanCR&layout=compact&langs_count=7&theme=merko"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=NatanCR&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanCR&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
   <div style="display: inline_block"><br>
