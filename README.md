@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Natan!
 
-- 🔭 Hoje trabalho com desenvolvimento mobile
+- 🔭 Hoje trabalho com desenvolvimento IOS
 - 🌱 Estudo Java e Swift
 
 <div align="center">
