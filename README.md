@@ -9,12 +9,6 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanCR&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Natan-Js" height="55" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Natan-Sf" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
-  <img align="center" alt="Natan-Xc" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg">
-</div>
-  
   ##
   
   <div> 
