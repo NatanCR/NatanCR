@@ -1,7 +1,8 @@
 ### Olá! Eu sou o Natan!
 
-- 🔭 Hoje trabalho com desenvolvimento IOS
+- 🔭 Hoje trabalho com desenvolvimento iOS
 - 🌱 Estudo Java e Swift
+- 👨🏻‍💻 Aprendiz na Apple Developer Academy Senac
 
 <div align="center">
   <a href="https://github.com/NatanCR">
