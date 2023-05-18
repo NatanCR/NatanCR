@@ -1,7 +1,7 @@
 ### Hi! I'm Natan!
 
 - 🔭 Working with iOS development
-- 🌱 Constant learning Swift and Java
+- 🌱 Constantly learning Swift and Java
 - 👨🏻‍💻 Learner at Apple Developer Academy Senac
 
 <div align="center">
