@@ -1,8 +1,8 @@
 ### Hi! I'm Natan!
 
-- 🔭 Working with iOS development
+- 🔭 Working and studying iOS development
 - 🌱 Constantly learning Swift
-- 👨🏻‍💻 Learner at Apple Developer Academy Senac
+- 👨🏻‍💻 Apple Developer Academy Senac Alumni
 
 <div align="center">
   <a href="https://github.com/NatanCR">
