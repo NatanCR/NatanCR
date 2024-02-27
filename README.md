@@ -1,7 +1,7 @@
 ### Hi! I'm Natan!
 
-- 🔭 Working and studying about iOS development
-- 🌱 Constantly learning
+- 🔭 Working with Swift 
+- 🌱 Constantly learning about iOS development
 - 👨🏻‍💻 
 
 <div align="center">
