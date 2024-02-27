@@ -2,7 +2,7 @@
 
 - 🔭 Working with Swift 
 - 🌱 Constantly learning about iOS development
-- 👨🏻‍💻 
+- 👨🏻‍💻 Apple Developer Academy Senac | Alumni
 
 <div align="center">
   <a href="https://github.com/NatanCR">
