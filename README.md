@@ -1,8 +1,13 @@
-### Hi! I'm Natan!
+### Hi there 👋 I'm Natan Camargo Rodrigues
 
-- 🔭 Working with Swift 
-- 🌱 Constantly learning about iOS development
-- 👨🏻‍💻 Apple Developer Academy Senac | Alumni
+🚀 iOS Developer | Swift, SwiftUI, UIKit | Firebase | Clean Architecture  
+🎓 Apple Developer Academy Senac | Alumni
+📍 Based in Australia 
+
+I love building intuitive, well-structured apps that deliver real value.  
+Feel free to explore my projects below and reach out!
+
+🔗 [LinkedIn](https://linkedin.com/in/natancamargo) | ✉️ natan0044@icloud.com
 
 <div align="center">
   <a href="https://github.com/NatanCR">
