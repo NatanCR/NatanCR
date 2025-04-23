@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Natan Camargo Rodrigues
 
-🚀 iOS Developer | Swift, SwiftUI, UIKit | Firebase | Clean Architecture  
-🎓 Apple Developer Academy Senac | Alumni 
-📍 Based in Australia 
+- 🚀 iOS Developer | Swift, SwiftUI, UIKit | Firebase | Clean Architecture  
+- 🎓 Apple Developer Academy Senac | Alumni 
+- 📍 Based in Australia 
 
 I love building intuitive, well-structured apps that deliver real value.  
 Feel free to explore my projects below and reach out!
